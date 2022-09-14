@@ -18,3 +18,5 @@ for (let i = 0; i < array.length; i++) { // 초기값, 조건, 증감분
 for (let item of array) {
     console.log(item);
 }
+
+// 안녕하세요
