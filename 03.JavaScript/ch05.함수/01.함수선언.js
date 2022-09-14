@@ -35,4 +35,4 @@ console.log(sq(10));
 
 // 짝수면 제곱수를, 홀수면 세제곱수를 반환하는 함수
 const myFunc = x => x %2 ==0 ? x*x : x*x*x;
-console.log(myFunc(2), myFunc(3))
+console.log(myFunc(2), myFunc(3)) 
