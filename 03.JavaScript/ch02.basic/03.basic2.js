@@ -27,3 +27,6 @@ console.log(1+true, true+'bool');
 // 일치 연산자
 console.log(1 == 1.0, 1 === 1.0); // 값이 같은지, 자료형이 같은지
 console.log(1 == '1', 1 === '1', 1 !=='1'); // 관계 자료형 변환이 일어나 true, 자료형이달라 false, 자료형이 다르기떄문에 true
+
+
+//ASDKFJ
