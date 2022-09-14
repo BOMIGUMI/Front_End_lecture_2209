@@ -47,3 +47,5 @@ console.log(typeof pi);
 pi = Math.PI;
 console.log(typeof pi);
 console.log(new Date().getFullYear());
+
+//ASDKFJ
